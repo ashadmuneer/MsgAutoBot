@@ -1,5 +1,5 @@
 
-# WhatsApp Automation Script
+# MSG Automation Script
 
 This project automates sending  messages via Web using Playwright. You can send text messages, as well as messages with image attachments, to a list of contacts specified in an Excel file.
 
